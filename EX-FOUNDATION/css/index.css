@@ -1,0 +1,87 @@
+
+body{
+	background: url(../img/fondo.jpg);
+	font-family: verdana;
+	color: white;
+}
+/*Titulos*/
+h3, h4, h6{
+  color: #F53E1A;
+}
+
+/*Blog*/
+.fondo1{
+  min-height: 35px;
+  background-color: rgba(0, 0, 0, 0.7);
+
+
+}
+
+.titulo1{
+	 border-right: 2px  white solid;
+}
+
+.icono1{
+	background-color: #F48E69;
+}
+
+.boton{
+	position:absolute;
+        left: 25%;
+}
+.form-icons {
+    text-align: center;
+}
+/*Buscador*/
+.input-group-field{
+  width: 100%;
+
+}
+/*NAvegador*/
+
+
+.list-group {
+ 
+  
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
+  overflow: hidden;
+ } 
+.list-group-item {
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+} 
+.list-group-item:hover, .list-group-item:focus {
+  background-color: #e6e6e6;
+}
+
+/*Pasta artesanal*/
+.imagen1{
+  width: 100%;
+}
+
+
+
+.list-group-item > :last-child {
+  margin-bottom: 0px;
+  border-bottom: none;
+}
+/*chat*/
+.list-group-item.active {
+  color: #fefefe;
+  background-color: #1779ba;
+  border-color: 0px solid #1779ba;
+  border-radius: 10px;
+}
+.chat{
+  border: 0px solid red;
+ 
+}
+.icono{
+  width: 50px;
+}
+.fondo {
+  min-height: 35px;
+  background-color: rgba(8, 45, 94, 0.95);
+}

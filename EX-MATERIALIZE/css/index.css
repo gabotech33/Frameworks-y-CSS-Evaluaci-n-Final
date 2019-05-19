@@ -1,0 +1,51 @@
+
+body{
+	background: url(../img/fondo.jpg);
+	font-family: verdana;
+	color: white;
+}
+
+.im2{
+	width: 100px;
+
+
+}
+.logo{
+  width: 15rem;
+
+
+}
+
+.responsive-img{
+	width: 100rem;
+
+
+  border-radius: 5px;
+}
+ 
+.nav-wrapper {
+ 
+    background-color : ;
+ 
+    font-size : 14px ;
+ 
+    font-weight : bold ;
+ 
+  }
+ 
+
+.te1{
+	margin-top: 4rem;
+
+}
+.img-social{
+	width: 50px;
+}
+
+.card-panel{
+	padding: 80px;
+}
+.titulo{
+	margin-top:  50rem;
+}
+
